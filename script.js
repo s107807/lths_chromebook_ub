@@ -16,9 +16,8 @@ function urlChange() {
     }
     console.log(link);
     window.location.href=link;  
-  }else{
-    link = "https://www.google.com/search?q=" + link;
-    console.log(link);
-    window.location.href=link;
   }
+  link = "https://www.google.com/search?q=" + link;
+  console.log(link);
+  window.location.href=link;
 }
