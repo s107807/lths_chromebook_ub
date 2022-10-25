@@ -4,4 +4,4 @@ A tool used to unlock searching on LTHS chromebooks.
 
 **Link**
 
-* [heheheHA](https://s107807.github.io/)
+* [heheheHA](https://s107807.github.io/lths_chromebook_ub/)
