@@ -10,7 +10,7 @@ function testButton() {
 
 function urlChange() {
   var link = bar.value;
-  if (link.indexOf('www.') == -1 && (link.indexof('https://') == -1 || link.indexof('http://'))){
+  if (link.indexOf('www.') == -1 && link.indexof('http') == -1){
     link = "https://www.google.com/search?q=" + link;
     console.log(link);
     window.location.href=link;
